@@ -12,9 +12,9 @@ ElementUI：vue add element
 jwt：npm install --save jwt-decode
 
 ## 后台依赖
-npm install --save express
-npm install --save mysql
-npm install --save jsonwebtoken
+npm install --save express<br>
+npm install --save mysql<br>
+npm install --save jsonwebtoken<br>
 
 ## 项目页面构建
 1. 容器：Layout
